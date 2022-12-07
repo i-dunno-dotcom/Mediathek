@@ -1,0 +1,21 @@
+body{
+    background-color: darkslategray;
+    padding: 10em;
+    margin: 20px;
+    align-content: center;
+    align-items: center;
+    text-align: center;
+    break-after: auto;
+}
+
+h1{
+    color: black;
+    text-align: center; 
+}
+
+button{
+    align-content: center;
+    height: 5em;
+    width: 10em;
+    background-color: white; 
+}

@@ -1,0 +1,36 @@
+body{
+    background-color: green;
+    padding: 20px;
+    margin: 20px;
+    align-content: center;
+    align-items: center;
+    text-align: center;
+    break-after: auto;
+}
+
+h1{
+    text-align: center;
+    color: whitesmoke;
+}
+
+p{
+    color: whitesmoke;
+}
+
+a{
+    color: white;
+}
+
+
+
+
+button{
+    align-items: center;
+    width: 20em;
+    height: 10em;
+    background-color: wheat;
+    outline-color: black;
+    text-align: center;
+    color: black;
+    
+}
